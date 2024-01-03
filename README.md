@@ -1,5 +1,7 @@
 # Learn PyTorch for Deep Learning
 
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
 
 * **Update April 2023:** New [tutorial for PyTorch 2.0](https://www.learnpytorch.io/pytorch_2_intro/) is live! And because PyTorch 2.0 is an additive (new features) and backward-compatible release, all previous course materials will *still* work with PyTorch 2.0.
